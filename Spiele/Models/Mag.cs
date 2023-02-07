@@ -1,6 +1,4 @@
-﻿
-
-namespace Spiele.Models
+﻿namespace Spiele.Models
 {
     public class Mag
     {

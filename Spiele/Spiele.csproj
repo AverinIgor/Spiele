@@ -45,9 +45,10 @@
   <ItemGroup>
     <Compile Include="Models\Drakon.cs" />
     <Compile Include="Models\Mag.cs" />
-    <Compile Include="Models\Voen.cs" />
+    <Compile Include="Models\Voin.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\FightMechanic.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
